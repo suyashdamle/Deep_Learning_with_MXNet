@@ -1,6 +1,4 @@
 # Deep Learning with Apache MXNet
-<img src="https://github.com/suyashdamle/deep_learning_projects/blob/master/DL_site_images/mxnet_logo.png" width="200"/>
-
 ***
 
 Following is the logical sequence of notebooks to try-out for beginners to the MXNet framework:
